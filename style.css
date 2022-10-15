@@ -54,13 +54,10 @@ h2{
         /* align-items: center; */
         margin-left: -15%;
     }
-
-    .mainbtn{
-        background-color: #3498db;
-        /* color: #2980b9; */
-        /* padding: 10%; */
-        /* margin-top: 10%; */
+    .mainDiv{
+        height: 125vh;
     }
+
     
 }
 
@@ -70,7 +67,7 @@ h2{
         margin-top: 5%;
     } 
     .mainDiv{
-        height: 110vh;
+        height: 125vh;
 
     }
 }
@@ -82,7 +79,7 @@ h2{
         margin-top: 30%;
     } 
     .mainDiv{
-        height: 110vh;
+        height: 125vh;
     }
     
 }
@@ -94,7 +91,7 @@ h2{
         margin-top: 50%;
     } 
     .mainDiv{
-        height: 110vh;
+        height: 125vh;
  
     }
 }
@@ -106,7 +103,7 @@ h2{
         margin-top: 50%;
     } 
     .mainDiv{
-        height: 110vh;
+        height: 125vh;
  
     }
 }
